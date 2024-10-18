@@ -27,7 +27,7 @@ I am full stack software engineer with 8 years of experience. Recently I have be
 - WebGL/Three.js
 - 2d/3d HTML5 Canvas app
 ```
-### Frontend
+### Contact
 ```
 - Mail: Seniornextdev@proton.me
 - Telegram: @Borealis_dev
