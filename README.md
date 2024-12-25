@@ -30,7 +30,7 @@ I am full stack software engineer with 8 years of experience. Recently I have be
 ```
 ### Contact
 ```
-- Mail: Seniornextdev@proton.me
+- Mail: jaxonscott3014@gmail.com
 - Telegram: @Borealis_dev
 - Skype: live:.cid.1fa7a1b9e9accaf2
 ```
