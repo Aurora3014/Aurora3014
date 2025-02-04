@@ -9,11 +9,11 @@ I am full stack software engineer with 8 years of experience. Recently I have be
 ### Blockchain Technology
 ```
 - EVM, Solana, TON, SUI
+- Trading bot + Telegram Bot on solana
 - Smart contracts
 - DeFi, DEX, CEX, LaunchPad, P2N games
 - NFT marketplace
 - Web3
-- Telegram Bots
 ```
 ### Backend 
 ```
