@@ -3,7 +3,6 @@
 
 ## About Me
 I am full stack software engineer with 8 years of experience. Recently I have been doing professional work in creating dApps like DeFi and NFT martketplace using Solidity, Rust, Web3, React.js etc.
-I want to contact via telegram if you're ok.
 <br>
 
 ## Skillset
