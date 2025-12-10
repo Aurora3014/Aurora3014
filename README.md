@@ -30,7 +30,8 @@ I am full stack software engineer with 8 years of experience. Recently I have be
 ```
 ### Contact
 ```
-- Telegram: @Borealis_dev
+- Telegram: [@dev_web3_3312](https://t.me/dev_web3_3312)
+- Mail: rexxardev@gmail.com
 ```
 ## Portfolio
 
