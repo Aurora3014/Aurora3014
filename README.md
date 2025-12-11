@@ -39,6 +39,7 @@ I am full stack software engineer with 8 years of experience. Recently I have be
 <a target="_blank" style="margin:5px" href="https://linella.md/ro" ><kbd><img height="120" width="200" src="https://github.com/gitrexdev/gitrexdev/blob/main/assets/supermarket.PNG?raw=true" ><br/>React Supermarket Website</kbd></a>
 <a target="_blank" style="margin:5px" href="https://adaevler.com/" ><kbd><img height="120" width="200" src="https://github.com/gitrexdev/gitrexdev/blob/main/assets/wordpress.png?raw=true" ><br/>Buy&&Sell with Wordpress</kbd></a>
 <a target="_blank" style="margin:5px" href="https://app.cashcowprotocol.com/" ><kbd><img height="120" width="200" src="https://github.com/gitrexdev/gitrexdev/blob/main/assets/cashcow.PNG?raw=true" ><br/>NFT marketing</kbd></a>
+<a target="_blank" style="margin:5px" href="https://poker-angular.onrender.com/" ><kbd><img height="120" width="200" src="https://github.com/aurora3014/aurora3014/blob/main/poker game.png?raw=true" ><br/>Poker Gaming</kbd></a>
 
 
 ### Electron and Three.js
